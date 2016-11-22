@@ -1,2 +1,2 @@
 # Tog-Coders-Night
-Teaching - Coding Notes / Programs
+Teaching - Coding Notes
